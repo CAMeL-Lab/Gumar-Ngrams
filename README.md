@@ -103,6 +103,11 @@ information for each document, as well as its dialect and the link it was
 downloaded from. Duplicate entries for title-author pairs indicate that a
 document was split into multiple files.
 
+*\* Please note that some entries in [Gumar_Info.tsv](./Gumar_Info.tsv)
+containing double-quotes have been escaped. We recommend using a TSV reader
+(eg. Microsoft Excel, Apple Numbers, Google Docs, etc.) to parse these
+properly.*
+
 ## Citation
 
 Please use the following citation when referencing this resource:
