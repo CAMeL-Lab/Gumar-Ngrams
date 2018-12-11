@@ -50,7 +50,7 @@ with this package.
 ## Download
 
 You can
-[download the GUMAR n-grams here](https://github.com/owo/GUMAR_NGRAMS/releases).
+[download the GUMAR n-grams here](https://github.com/CAMeL-Lab/Gumar-Ngrams/releases).
 
 The n-grams are split by dialect into seperate compressed folders of the form
 `<TAG>.tar.xz` where *\<TAG>* is one of the dialect tags listed above.
@@ -113,7 +113,7 @@ Please use the following citation when referencing this resource:
 
 ## License
 
-This compilation is licensed under a
+The Gumar Corpus n-grams are licensed under a
 [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
 
 ## References
