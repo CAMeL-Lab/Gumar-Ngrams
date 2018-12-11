@@ -110,7 +110,7 @@ properly.*
 
 ## Citation
 
-Please use the following citation when referencing this resource:
+Please use the following citation when referencing or using this resource:
 
 > Khalifa, Salam, Nizar Habash, Dana Abdulrahim, and Sara Hassan.
 > "A Large Scale Corpus of Gulf Arabic." In Language Resources and Evaluation
