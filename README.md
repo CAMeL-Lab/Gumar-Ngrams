@@ -7,11 +7,11 @@
 ## About
 
 We present the Gumar Corpus n-grams.
-The n-grams are Generated from the
+The n-grams are generated from the
 [Gumar Corpus](https://camel.abudhabi.nyu.edu/gumar/), a large-scale corpus of
 Gulf Arabic containing more than 100 million words [1,2].
 The n-grams are in order of 5, that is 5, 4, 3, 2 and 1 grams with their
-respective frequency counts and number of documents they appear in.
+respective frequency counts and the number of documents they appear in.
 The n-grams are counted across the entire corpus and also across each dialect
 category individually.
 The format of the n-gram files follows a similar format of Google n-grams with
